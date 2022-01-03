@@ -19,3 +19,5 @@ We focused on the US reviews for video games.
 
 *Non-Vine reviews
 
+![GitHub Graph](https://github.com/tpatel0107/Amazon-Vine-Analysis/blob/main/total%20number%20of%20vine%20reviews2.PNG?raw=true)
+
