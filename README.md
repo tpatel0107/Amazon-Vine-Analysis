@@ -7,3 +7,5 @@ We focused on the US reviews for video games.
 **Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 ## Results
 **Vine Reviews
+#Total number of reviews
+![GitHub Graph](https://github.com/tpatel0107/Amazon-Vine-Analysis/blob/main/Total%20Number%20of%20Reviews.PNG?raw=true)
