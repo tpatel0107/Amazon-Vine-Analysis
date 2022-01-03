@@ -10,7 +10,9 @@ We focused on the US reviews for video games.
 ##Vine Reviews
 
 #Total number of reviews
+
 ![GitHub Graph](https://github.com/tpatel0107/Amazon-Vine-Analysis/blob/main/Total%20Number%20of%20Reviews.PNG?raw=true)
 
 #Vine Reviews
+
 ![GitHub Graph](https://github.com/tpatel0107/Amazon-Vine-Analysis/blob/main/Total%20number%20of%20vine%20reviews.PNG?raw=true)
